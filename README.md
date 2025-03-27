@@ -15,5 +15,3 @@ This project demonstrates the differences between **Sobel** and **Laplacian** ed
 - **Sobel Filter**: Detects edges in a specific direction (horizontal/vertical) and reduces noise.
 - **Laplacian Filter**: Detects edges in all directions but is more sensitive to noise.
 
-## License
-This project is open-source and available under the MIT License.
